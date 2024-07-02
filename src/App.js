@@ -1,4 +1,7 @@
+import { TasksComponent } from "./TasksComponent";
 
 export function App() {
-    return "This is an app"
+
+    return <TasksComponent />
+
 }
